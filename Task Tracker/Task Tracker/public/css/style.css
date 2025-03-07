@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(233, 252, 190);
+}
+
+#myNav {
+    background-color: rgb(227, 255, 161);
+}
+
+#homepageMessage {
+    font-family: "Anton", serif;
+    font-weight: 500;
+}
+
+.homepageLink {
+    text-decoration: none;
+    color: black;
+
+}
+
+.homepageButton {
+    background-color: rgb(241, 255, 214);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.homepageLinkText {
+    font-weight: 500;
+}
+
+.addUsersFormInput{
+    margin-left: 15px;
+}
+
+.addUsersButtonSubmit {
+    background-color: rgb(127, 223, 255);
+    border-radius: 5px;
+    margin-left: 28px;
+}
+
+.addUsersButtonClear {
+    background-color: rgb(255, 116, 116);
+    border-radius: 5px;
+}
+
